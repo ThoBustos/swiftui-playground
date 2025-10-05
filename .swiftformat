@@ -1,0 +1,18 @@
+# SwiftFormat configuration
+# https://github.com/nicklockwood/SwiftFormat
+
+# Format Options
+--swiftversion 5.9
+--indent 4
+--indentcase false
+--trimwhitespace always
+--voidtype void
+--nospaceoperators ..<, ...
+--ifdef noindent
+--stripunusedargs closure-only
+--maxwidth 120
+
+# Rules
+--enable isEmpty
+--disable andOperator
+--disable wrapMultilineStatementBraces
