@@ -34,7 +34,8 @@ This is a minimalist iOS application built with SwiftUI - clean design, smooth a
 </p>
 
 ### Mobile App Preview
-See video in assets folder.
+
+[📱 Mobile App Demo Video](assets/)
 
 ## Requirements
 
