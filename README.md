@@ -35,10 +35,7 @@ This is a minimalist iOS application built with SwiftUI - clean design, smooth a
 
 ### Mobile App Preview
 <p align="center">
-  <video width="300" controls>
-    <source src="assets/video_app_swift.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  📱 **[Watch Mobile App Demo Video](assets/video_app_swift.mp4)**
 </p>
 
 ## Requirements
